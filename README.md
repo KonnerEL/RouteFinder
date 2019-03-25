@@ -20,7 +20,7 @@ The app should now be running on [localhost:8000](http://localhost:8000/).
 
 ## About the Algorithm
 
-The Algorithm is a Python Implementation of A* Search from the AIMA Library. [![](https://avatars2.githubusercontent.com/u/17015933?s=200&v=4)](https://github.com/aimacode/aima-python)
+The Algorithm is a Python Implementation of A* Search from the AIMA Library. [![](https://raw.githubusercontent.com/aimacode/aima-python/master/images/aima_logo.png)](https://github.com/aimacode/aima-python)
 
 ## About the Data
 
