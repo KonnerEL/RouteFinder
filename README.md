@@ -1,39 +1,31 @@
-# node-js-getting-started
+# RouteFinder
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A Node.js app that finds the shortest path between two points using the A* Searching Algorithm.
 
-This application supports the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
+The Web App uses:
+- [Node.js](https://nodejs.org/en/) + [Express 4](http://expressjs.com/).
+- [Python](https://www.python.org/)
 
 ## Running Locally
 
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
+Make sure you have [Node.js](http://nodejs.org/) and [Python](https://www.python.org/) installed.
 
 ```sh
-$ git clone https://github.com/heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ cd .../RouteFinder
 $ npm install
-$ npm start
+$ node index.js
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+The app should now be running on [localhost:8000](http://localhost:8000/).
 
-## Deploying to Heroku
+## About the Algorithm
 
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-or
+The Algorithm is a Python Implementation of A* Search from the AIMA Library. [![](https://avatars2.githubusercontent.com/u/17015933?s=200&v=4)](https://github.com/aimacode/aima-python)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+## About the Data
 
-## Documentation
+The Web App currently only have support to 31 of 32 cities of Colombia. <img align="right" width="100" height="100" src="https://images.emojiterra.com/twitter/v11/128px/1f1e8-1f1f4.png">
 
-For more information about using Node.js on Heroku, see these Dev Center articles:
+## Next Versions
 
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+Next versions of the Web App will have support to many countries of the World. New Funcionalities will be added.
