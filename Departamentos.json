@@ -1,0 +1,157 @@
+[
+    {
+        "Departamento": "Amazonas",
+        "Capital": "Leticia",
+        "Coordenadas": [-70.0708,-4.0047]
+    },
+    {
+        "Departamento": "Antioquia",
+        "Capital": "Medellin",
+        "Coordenadas": [-75.57483,6.24475]
+    },
+    {
+        "Departamento": "Arauca",
+        "Capital": "Arauca",
+        "Coordenadas": [-70.76167,7.09028]
+    },
+    {
+        "Departamento": "Atlantico",
+        "Capital": "Barranquilla",
+        "Coordenadas": [-74.79639,10.96389]
+    },
+    {
+        "Departamento": "Bolivar",
+        "Capital": "Cartagena",
+        "Coordenadas": [-75.52528,10.42361]
+    },
+    {
+        "Departamento": "Boyaca",
+        "Capital": "Tunja",
+        "Coordenadas": [-73.36139,5.54028]
+    },
+    {
+        "Departamento": "Caldas",
+        "Capital": "Manizales",
+        "Coordenadas": [-75.48472,5.06611]
+    },
+    {
+        "Departamento": "Caqueta",
+        "Capital": "Florencia",
+        "Coordenadas": [-75.61167,1.61417]
+    },
+    {
+        "Departamento": "Casanare",
+        "Capital": "Yopal",
+        "Coordenadas": [-72.39056,5.33056]
+    },
+    {
+        "Departamento": "Cauca",
+        "Capital": "Popayan",
+        "Coordenadas": [-76.60028,2.45917]
+    },
+    {
+        "Departamento": "Cesar",
+        "Capital": "Valledupar",
+        "Coordenadas": [-73.25972,10.46028]
+    },
+    {
+        "Departamento": "Choco",
+        "Capital": "Quibdo",
+        "Coordenadas": [-76.65819,5.69228]
+    }, 
+    {
+        "Departamento": "Cundinamarca",
+        "Capital": "Bogota",
+        "Coordenadas": [-74.08083,4.59889]
+    },
+    {
+        "Departamento": "Cordoba",
+        "Capital": "Monteria",
+        "Coordenadas": [-75.88556,8.75972]
+    },
+    {
+        "Departamento": "Guaviare",
+        "Capital": "San Jose del Guaviare",
+        "Coordenadas": [-72.6459,2.5729]
+    },
+    {
+        "Departamento": "Huila",
+        "Capital": "Neiva",
+        "Coordenadas": [-75.2875,2.9275]
+    },
+    {
+        "Departamento": "La Guajira",
+        "Capital": "Riohacha",
+        "Coordenadas": [-72.90694,11.54417]
+    },
+    {
+        "Departamento": "Magdalena",
+        "Capital": "Santa Marta",
+        "Coordenadas": [-74.20167,11.23611]
+    },
+    {
+        "Departamento": "Meta",
+        "Capital": "Villavicencio",
+        "Coordenadas": [-73.62944,4.1425]
+    },
+    {
+        "Departamento": "Nariño",
+        "Capital": "Pasto",
+        "Coordenadas": [-77.27472,1.21]
+    },
+    {
+        "Departamento": "Norte de Santander",
+        "Capital": "Cucuta",
+        "Coordenadas": [-72.50472,7.9075]
+    },
+    {
+        "Departamento": "Putumayo",
+        "Capital": "Mocoa",
+        "Coordenadas": [-76.6466,1.1493]
+    },
+    {
+        "Departamento": "Quindio",
+        "Capital": "Armenia",
+        "Coordenadas": [-75.6725,4.53889]
+    },
+    {
+        "Departamento": "Risaralda",
+        "Capital": "Pereira",
+        "Coordenadas": [-75.69456,4.81428]
+    },
+    {
+        "Departamento": "San Andres y Providencia",
+        "Capital": "San Andres",
+        "Coordenadas": [-81.7,12.58333]
+    },
+    {
+        "Departamento": "Santander",
+        "Capital": "Bucaramanga",
+        "Coordenadas": [-73.11611,7.11861]
+    },
+    {
+        "Departamento": "Sucre",
+        "Capital": "Sincelejo",
+        "Coordenadas": [-75.39583,9.29944]
+    },
+    {
+        "Departamento": "Tolima",
+        "Capital": "Ibague",
+        "Coordenadas": [-75.20056,4.43778]
+    },
+    {
+        "Departamento": "Valle del Cauca",
+        "Capital": "Cali",
+        "Coordenadas": [-76.51972,3.44]
+    },
+    {
+        "Departamento": "Vaupes",
+        "Capital": "Mitu",
+        "Coordenadas": [-70.1733,1.1983]
+    },
+    {
+        "Departamento": "Vichada",
+        "Capital": "Puerto Carreno",
+        "Coordenadas": [-68.1638,6.0681]
+    }
+]
