@@ -1,7 +1,7 @@
 {
-  "name": "routemap",
+  "name": "routefinder",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Nodejs Web App to find the shortest path using A* Searching Algorithm",
   "engines": {
     "node": "10.x"
   },
@@ -22,19 +22,10 @@
     "request": "^2.81.0",
     "tape": "^4.7.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/heroku/node-js-getting-started.git"
-  },
   "keywords": [
     "node",
-    "heroku",
     "express"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/heroku/node-js-getting-started/issues"
-  },
-  "homepage": "https://github.com/heroku/node-js-getting-started#readme",
   "author": "KonnerEL"
 }
