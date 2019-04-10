@@ -24,7 +24,7 @@ The Algorithm is a Python Implementation of A* Search from the AIMA Library. [![
 
 ## About the Data
 
-The Web App currently only have support for 31 of 32 cities of Colombia. <img align="right" width="100" height="100" src="https://images.emojiterra.com/twitter/v11/128px/1f1e8-1f1f4.png">
+The Web App currently only have support for 31 of 32 cities from Colombia. <img align="right" width="100" height="100" src="https://images.emojiterra.com/twitter/v11/128px/1f1e8-1f1f4.png">
 
 ## Next Versions
 
